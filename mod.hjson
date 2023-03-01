@@ -1,3 +1,4 @@
 name: Sentinel texts
 description: A text edit in development
 minGameVersion: 136
+hidden: true
